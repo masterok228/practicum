@@ -1,2 +1,1 @@
-# practicum
-application development
+# Project practice
